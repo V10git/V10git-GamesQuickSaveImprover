@@ -1,5 +1,5 @@
 # Games QuickSave Improver
-Increase quicksave slots count in any games
+Increase quicksave slots count in any games.
 You need change sources definitions and recompile for it work in your game.
 
 You can inject it by start Injector
