@@ -1,12 +1,13 @@
 # Games QuickSave Improver
 Increase quicksave slots count in any games
+You need change sources definitions and recompile for it work in your game.
 
 You can inject it by start Injector
 
 Injector usage: injector.exe <full_filename_exe> <dll_to_inject>
 
 # Wartales quicksave mod
-This mod increase quickslot count in Wartales game from 1 to 8
+This mod increase quickslot count in **Wartales** game from 1 to 8
 
 ## Wartales quicksave mod install
 1. Download **Wartales** mod from latest release [here](https://github.com/V10git/V10git-GamesQuickSaveImprover/releases/latest/download/WartalesQuickSaveImprover1.0.zip)
