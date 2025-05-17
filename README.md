@@ -11,7 +11,7 @@ This mod increase quickslot count from 1 to 8
 4. Start game
 
 # Dependencies
-[MinHook](https://github.com/TsudaKageyu/minhook)
+[MinHook 1.3.3](https://github.com/TsudaKageyu/minhook)
 
 # Thanks
 **MinHook** devs
