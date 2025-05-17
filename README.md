@@ -2,7 +2,7 @@
 Increase quicksave slots count in any games
 
 # Wartales quicksave mod
-This mod increase quickslot count from 1 to 8
+This mod increase quickslot count in Wartales game from 1 to 8
 
 ## Wartales quicksave mod install
 1. Download **Wartales** Games QuickSave Improver mod release [here](https://github.com/V10git/V10git-GamesQuickSaveImprover/releases/latest/download/WartalesQuickSaveImprover1.0.zip)
