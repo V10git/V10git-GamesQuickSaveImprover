@@ -10,3 +10,8 @@ This mod increase quickslot count from 1 to 8
 3. Extract all files to **Wartales** game folder
 4. Start game
 
+# Dependencies
+[MinHook](https://github.com/TsudaKageyu/minhook)
+
+# Thanks
+**MinHook** devs
